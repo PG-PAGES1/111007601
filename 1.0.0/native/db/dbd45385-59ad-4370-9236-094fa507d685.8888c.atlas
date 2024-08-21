@@ -1,0 +1,83 @@
+
+freestart.jpg
+size: 1886,946
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeixuanzejiemianheputongbeijingtu/bl_bg
+  rotate: true
+  xy: 0, 406
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_load
+  rotate: false
+  xy: 1359, 148
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_outer_circle_a
+  rotate: true
+  xy: 1359, 245
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_outer_circle_b
+  rotate: false
+  xy: 1616, 257
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_outer_circle_c
+  rotate: false
+  xy: 1616, 0
+  size: 256, 255
+  orig: 256, 255
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_trans_flash
+  rotate: true
+  xy: 1230, 84
+  size: 417, 127
+  orig: 417, 127
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/bl_trans_glow
+  rotate: true
+  xy: 1606, 514
+  size: 432, 280
+  orig: 432, 280
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_bg_circle
+  rotate: false
+  xy: 1172, 503
+  size: 432, 443
+  orig: 432, 443
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_a
+  rotate: false
+  xy: 410, 5
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_b
+  rotate: false
+  xy: 820, 5
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_c
+  rotate: false
+  xy: 0, 5
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1

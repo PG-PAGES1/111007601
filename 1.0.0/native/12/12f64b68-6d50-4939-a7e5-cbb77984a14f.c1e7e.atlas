@@ -1,0 +1,132 @@
+
+freeend.png
+size: 1989,1411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_bg_circle
+  rotate: true
+  xy: 1005, 242
+  size: 432, 443
+  orig: 432, 443
+  offset: 0, 0
+  index: -1
+mianfeijiesuanlingjianganniu/bf_a_bg_glow
+  rotate: true
+  xy: 1630, 25
+  size: 432, 177
+  orig: 432, 180
+  offset: 0, 0
+  index: -1
+mianfeijiesuanlingjianganniu/bf_b_bg_glow
+  rotate: false
+  xy: 994, 62
+  size: 432, 178
+  orig: 432, 180
+  offset: 0, 0
+  index: -1
+mianfeijiesuanlingjianganniu/bf_c_bg_glow
+  rotate: true
+  xy: 1450, 25
+  size: 432, 178
+  orig: 432, 180
+  offset: 0, 0
+  index: -1
+mianfeijiesuanlingjianganniu/tw_button
+  rotate: false
+  xy: 1450, 998
+  size: 497, 160
+  orig: 497, 160
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_bg
+  rotate: false
+  xy: 0, 241
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_button_glow
+  rotate: true
+  xy: 1809, 94
+  size: 363, 176
+  orig: 363, 176
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_glow
+  rotate: true
+  xy: 542, 242
+  size: 432, 461
+  orig: 432, 461
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_trans_flash
+  rotate: true
+  xy: 1862, 579
+  size: 417, 127
+  orig: 417, 127
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_trans_glow
+  rotate: false
+  xy: 1428, 716
+  size: 432, 280
+  orig: 432, 280
+  offset: 0, 0
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_00
+  rotate: true
+  xy: 737, 3
+  size: 237, 255
+  orig: 737, 279
+  offset: 248, 14
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_01
+  rotate: false
+  xy: 1450, 459
+  size: 367, 255
+  orig: 737, 279
+  offset: 183, 14
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_02
+  rotate: false
+  xy: 1428, 1160
+  size: 543, 251
+  orig: 737, 279
+  offset: 95, 16
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_03
+  rotate: true
+  xy: 1177, 690
+  size: 721, 249
+  orig: 737, 279
+  offset: 8, 17
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_04
+  rotate: false
+  xy: 0, 0
+  size: 735, 239
+  orig: 737, 279
+  offset: 1, 22
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_05
+  rotate: true
+  xy: 542, 676
+  size: 735, 219
+  orig: 737, 279
+  offset: 1, 32
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_06
+  rotate: true
+  xy: 763, 676
+  size: 735, 209
+  orig: 737, 279
+  offset: 1, 37
+  index: -1
+mianfeilingjiangkuang/tw_button_sweep_07
+  rotate: true
+  xy: 974, 676
+  size: 735, 201
+  orig: 737, 279
+  offset: 1, 41
+  index: -1

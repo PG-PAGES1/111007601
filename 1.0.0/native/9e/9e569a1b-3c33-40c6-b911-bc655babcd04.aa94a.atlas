@@ -1,0 +1,27 @@
+
+wild-kuang.png
+size: 607,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_w_c_frame
+  rotate: true
+  xy: 1, 110
+  size: 142, 544
+  orig: 142, 544
+  offset: 0, 0
+  index: -1
+s_w_c_wild
+  rotate: true
+  xy: 1, 4
+  size: 104, 390
+  orig: 104, 390
+  offset: 0, 0
+  index: -1
+s_w_c_wild_zh
+  rotate: true
+  xy: 393, 1
+  size: 107, 213
+  orig: 108, 214
+  offset: 1, 0
+  index: -1

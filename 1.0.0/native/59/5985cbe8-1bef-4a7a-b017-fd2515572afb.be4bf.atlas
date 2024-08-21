@@ -1,0 +1,139 @@
+
+freebg.png
+size: 1758,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baisexingxing
+  rotate: true
+  xy: 332, 222
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/ui_bg_glow
+  rotate: true
+  xy: 427, 35
+  size: 254, 52
+  orig: 254, 52
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemianheputongbeijingtu/ui_bg_top
+  rotate: true
+  xy: 1, 175
+  size: 540, 329
+  orig: 540, 329
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_00
+  rotate: false
+  xy: 1, 30
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_01
+  rotate: true
+  xy: 332, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_02
+  rotate: true
+  xy: 477, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_03
+  rotate: false
+  xy: 481, 146
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_04
+  rotate: true
+  xy: 622, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_05
+  rotate: true
+  xy: 767, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_06
+  rotate: false
+  xy: 481, 1
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_07
+  rotate: false
+  xy: 907, 146
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_08
+  rotate: true
+  xy: 912, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_09
+  rotate: true
+  xy: 1057, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_10
+  rotate: true
+  xy: 1202, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_11
+  rotate: false
+  xy: 907, 1
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_12
+  rotate: false
+  xy: 1333, 146
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_13
+  rotate: true
+  xy: 1347, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_14
+  rotate: true
+  xy: 1492, 291
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1
+putongbeijingshachengtexiao/ui_bg_wind_15
+  rotate: false
+  xy: 1333, 1
+  size: 424, 143
+  orig: 424, 161
+  offset: 0, 0
+  index: -1

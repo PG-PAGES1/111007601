@@ -1,0 +1,363 @@
+
+wansheng-dajiang.png
+size: 2032,2031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw/bw_particle_00
+  rotate: false
+  xy: 1817, 287
+  size: 191, 237
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_01
+  rotate: false
+  xy: 1630, 556
+  size: 191, 249
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_02
+  rotate: false
+  xy: 1648, 50
+  size: 191, 235
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_03
+  rotate: false
+  xy: 1514, 1394
+  size: 189, 273
+  orig: 191, 307
+  offset: 1, 1
+  index: -1
+bw/bw_particle_04
+  rotate: false
+  xy: 1023, 623
+  size: 191, 289
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_05
+  rotate: false
+  xy: 933, 1318
+  size: 189, 303
+  orig: 191, 307
+  offset: 1, 1
+  index: -1
+bw/bw_particle_06
+  rotate: false
+  xy: 1170, 332
+  size: 191, 289
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_07
+  rotate: false
+  xy: 1264, 41
+  size: 191, 289
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_08
+  rotate: false
+  xy: 354, 1316
+  size: 191, 305
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_09
+  rotate: false
+  xy: 1442, 1746
+  size: 191, 285
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_10
+  rotate: false
+  xy: 547, 1318
+  size: 191, 303
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_11
+  rotate: true
+  xy: 1705, 1275
+  size: 191, 271
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_12
+  rotate: false
+  xy: 740, 1318
+  size: 191, 303
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_13
+  rotate: false
+  xy: 1630, 807
+  size: 191, 259
+  orig: 191, 307
+  offset: 0, 3
+  index: -1
+bw/bw_particle_14
+  rotate: true
+  xy: 1635, 1840
+  size: 191, 283
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+bw/bw_particle_15
+  rotate: false
+  xy: 1124, 1320
+  size: 189, 301
+  orig: 191, 307
+  offset: 2, 4
+  index: -1
+bw/bw_particle_16
+  rotate: false
+  xy: 1841, 58
+  size: 191, 227
+  orig: 191, 307
+  offset: 0, 1
+  index: -1
+dajiangguangxiao/bw_bg_glow
+  rotate: true
+  xy: 685, 120
+  size: 402, 284
+  orig: 402, 284
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/bw_flash
+  rotate: true
+  xy: 489, 524
+  size: 380, 176
+  orig: 380, 176
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/mw_bg_glow
+  rotate: true
+  xy: 890, 914
+  size: 402, 284
+  orig: 402, 284
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/mw_flash
+  rotate: true
+  xy: 667, 524
+  size: 380, 176
+  orig: 380, 176
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/smw_bg_glow
+  rotate: true
+  xy: 1156, 1629
+  size: 402, 284
+  orig: 402, 284
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/smw_flash
+  rotate: true
+  xy: 845, 524
+  size: 380, 176
+  orig: 380, 176
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/bw_bg
+  rotate: true
+  xy: 477, 84
+  size: 432, 206
+  orig: 432, 206
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/bw_btm
+  rotate: true
+  xy: 232, 517
+  size: 756, 81
+  orig: 756, 81
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/bw_top
+  rotate: true
+  xy: 315, 518
+  size: 755, 172
+  orig: 755, 172
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/mw_bg
+  rotate: true
+  xy: 264, 83
+  size: 432, 211
+  orig: 432, 211
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/mw_btm
+  rotate: true
+  xy: 271, 1275
+  size: 756, 81
+  orig: 756, 81
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/mw_top
+  rotate: true
+  xy: 0, 517
+  size: 756, 230
+  orig: 756, 230
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/smw_bg
+  rotate: true
+  xy: 0, 83
+  size: 432, 262
+  orig: 432, 262
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/smw_btm
+  rotate: false
+  xy: 0, 0
+  size: 756, 81
+  orig: 756, 81
+  offset: 0, 0
+  index: -1
+dajiangxianshibeijingkuang/smw_top
+  rotate: true
+  xy: 0, 1275
+  size: 756, 269
+  orig: 756, 269
+  offset: 0, 0
+  index: -1
+lizitexiao/bw_bg_particle_00
+  rotate: false
+  xy: 971, 225
+  size: 197, 297
+  orig: 205, 301
+  offset: 8, 1
+  index: -1
+lizitexiao/bw_bg_particle_01
+  rotate: false
+  xy: 1423, 802
+  size: 205, 263
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_02
+  rotate: true
+  xy: 1705, 1468
+  size: 199, 271
+  orig: 205, 301
+  offset: 6, 1
+  index: -1
+lizitexiao/bw_bg_particle_03
+  rotate: false
+  xy: 1216, 750
+  size: 205, 277
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_04
+  rotate: false
+  xy: 1315, 1342
+  size: 197, 285
+  orig: 205, 301
+  offset: 8, 1
+  index: -1
+lizitexiao/bw_bg_particle_05
+  rotate: true
+  xy: 971, 18
+  size: 205, 291
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_06
+  rotate: false
+  xy: 1827, 1018
+  size: 205, 255
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_07
+  rotate: false
+  xy: 1823, 763
+  size: 205, 253
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_08
+  rotate: false
+  xy: 1457, 40
+  size: 189, 245
+  orig: 205, 301
+  offset: 16, 1
+  index: -1
+lizitexiao/bw_bg_particle_09
+  rotate: false
+  xy: 1823, 526
+  size: 203, 235
+  orig: 205, 301
+  offset: 2, 1
+  index: -1
+lizitexiao/bw_bg_particle_10
+  rotate: true
+  xy: 1568, 355
+  size: 199, 247
+  orig: 205, 301
+  offset: 6, 1
+  index: -1
+lizitexiao/bw_bg_particle_11
+  rotate: true
+  xy: 1568, 1068
+  size: 205, 257
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_12
+  rotate: false
+  xy: 1363, 483
+  size: 203, 265
+  orig: 205, 301
+  offset: 2, 1
+  index: -1
+lizitexiao/bw_bg_particle_13
+  rotate: false
+  xy: 1361, 1067
+  size: 205, 273
+  orig: 205, 301
+  offset: 0, 1
+  index: -1
+lizitexiao/bw_bg_particle_14
+  rotate: true
+  xy: 1635, 1669
+  size: 169, 283
+  orig: 205, 301
+  offset: 36, 1
+  index: -1
+lizitexiao/bw_bg_particle_15
+  rotate: false
+  xy: 1176, 1029
+  size: 183, 289
+  orig: 205, 301
+  offset: 22, 1
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_a
+  rotate: true
+  xy: 354, 1623
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_b
+  rotate: true
+  xy: 489, 906
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1
+mianfeixuanzejiemiantexiaoheyuansubeijin/bl_select_wave_c
+  rotate: true
+  xy: 755, 1623
+  size: 408, 399
+  orig: 408, 399
+  offset: 0, 0
+  index: -1
